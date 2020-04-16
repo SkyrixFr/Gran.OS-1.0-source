@@ -1,0 +1,11 @@
+C:\Users\joshu\Desktop\dev\Gran.os\Gran.OS\Gran.OS\bin\Release\Gran.OS.exe.config
+C:\Users\joshu\Desktop\dev\Gran.os\Gran.OS\Gran.OS\bin\Release\Gran.OS.exe
+C:\Users\joshu\Desktop\dev\Gran.os\Gran.OS\Gran.OS\bin\Release\Gran.OS.pdb
+C:\Users\joshu\Desktop\dev\Gran.os\Gran.OS\Gran.OS\obj\Release\Gran.OS.Form1.resources
+C:\Users\joshu\Desktop\dev\Gran.os\Gran.OS\Gran.OS\obj\Release\Gran.OS.Properties.Resources.resources
+C:\Users\joshu\Desktop\dev\Gran.os\Gran.OS\Gran.OS\obj\Release\Gran.OS.csproj.GenerateResource.cache
+C:\Users\joshu\Desktop\dev\Gran.os\Gran.OS\Gran.OS\obj\Release\Gran.OS.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\dev\Gran.os\Gran.OS\Gran.OS\obj\Release\Gran.OS.exe
+C:\Users\joshu\Desktop\dev\Gran.os\Gran.OS\Gran.OS\obj\Release\Gran.OS.pdb
+C:\Users\joshu\Desktop\dev\Gran.os\Gran.OS\Gran.OS\obj\Release\Gran.OS.csprojAssemblyReference.cache
+C:\Users\joshu\Desktop\dev\Gran.os\Gran.OS\Gran.OS\obj\Release\Gran.OS.launchMenu.resources
